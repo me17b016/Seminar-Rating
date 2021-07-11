@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "997995783637",
+    "firebase_url": "https://mysecondberkley.firebaseio.com",
+    "project_id": "mysecondberkley",
+    "storage_bucket": "mysecondberkley.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997995783637:android:6d56e29f906e5347",
+        "android_client_info": {
+          "package_name": "com.example.mysecondberkley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997995783637-ueqvbse4ih4jm26t44mihsgn7b4lub01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mysecondberkley",
+            "certificate_hash": "6e20aa9be149e58bb308e59804112e3aabfb8453"
+          }
+        },
+        {
+          "client_id": "997995783637-kfn69qo9oors0sug56e1u80nbsurne17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1XxJ3cGBlqm09ZT7rRHvr9OTjSa9ykvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997995783637-kfn69qo9oors0sug56e1u80nbsurne17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
